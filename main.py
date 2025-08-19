@@ -1,1 +1,3 @@
-hovno
+
+x= 10
+print(x)
